@@ -41,3 +41,8 @@
  
 ### 3. Веб-анализатор 
 Инструмент для анализа производительности веб-страниц. 
+ 
+### Ссылки на проекты 
+- [Учебный менеджер](https://github.com/Alvwa/study-manager) 
+- [Библиотека алгоритмов](https://github.com/Alvwa/algorithms-library) 
+- [Веб-анализатор](https://github.com/Alvwa/web-analyzer) 
