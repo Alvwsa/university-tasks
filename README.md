@@ -15,3 +15,7 @@
 ## Структура репозитория
 - semester1/ - материалы первого семестра
 - semester2/ - материалы второго семестра
+ 
+## Контактная информация 
+- Email: student@university.edu 
+- GitHub: [username](https://github.com/username) 
